@@ -509,10 +509,6 @@ img {
 	border-color: var(--accent-color);
 	color: var(--accent-color);
 }
-.clients-soc-link:hover .clients-soc-icon,
-.clients-soc-link:focus .clients-soc-icon {
-	fill: var(--accent-color);
-}
 
 /* ------- КОНТАКТЫ И АДРЕС ------- */
 
